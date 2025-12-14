@@ -12,6 +12,7 @@ Jupyter/PySpark Notebook - Docker Compose Setup
 1. Клонирование репозитория:
 
 `git clone https://github.com/lukin-vy/BigData_HW.git`
+
 `cd pyspark-jupyter-docker`
 
 2. Запуск контейнера:
